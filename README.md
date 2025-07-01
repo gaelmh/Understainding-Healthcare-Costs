@@ -16,11 +16,13 @@ Through generalized linear models, this project investigates healthcare data to 
 ## Key Technologies:
 **Language:** R
 **Libraries:** 
-- dplyr (data manipulation)
+- dplyr (Data Manipulation)
 - lm (Linear Regression)
 - glm (Logistic Regression)
 - aov (ANOVA)
-- ggplot2 (data visualization) 
+- ggplot2 (Data Visualization) 
 
 ## Full Project Write-up:
 For a detailed narrative, comprehensive methodology, and deeper insights into this project, please read the full write-up on [LinkedIn](https://www.linkedin.com/in/gaelmotahernandez/details/projects/1731117659564/single-media-viewer/?profileId=ACoAAD0sr1oBRU-g7rHenPy0sFhxgU6vSvExSdU).
+
+---
