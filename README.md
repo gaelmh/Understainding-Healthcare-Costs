@@ -2,7 +2,7 @@
 Through generalized linear models, this project investigates healthcare data to analyze the impact of demographic and lifestyle factors on healthcare costs.
 
 ## Data:
-[Healthcare Costs]([link](https://www.kaggle.com/datasets/mirichoi0218/insurance) gathered from Kaggle.
+[Healthcare Costs](https://www.kaggle.com/datasets/mirichoi0218/insurance) gathered from Kaggle.
 
 ## Models:
 - **Linear Regression Analysis:** To determine the relationship between medical costs and factors such as age, sex, BMI, number of children, smoker status, and region.
